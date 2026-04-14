@@ -4,19 +4,20 @@
     "url": "192.168.31.220",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
-    "time": 252,
-    "timeDay": 252,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "90.38%",
+    "uptimeDay": "90.38%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "90.38%",
+    "time": 224,
+    "timeDay": 224,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-04-13": 1
+      "2026-04-14": 10,
+      "2026-04-13": 13
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "192.168.31.210",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-sql-server-maria-db",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 254,
-    "timeDay": 254,
-    "timeWeek": 254,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "status": "up",
+    "uptime": "89.80%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "89.80%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "89.80%",
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-04-13": 0
+      "2026-04-14": 10,
+      "2026-04-13": 12
     }
   }
 ]
