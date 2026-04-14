@@ -24,6 +24,14 @@ sites:
     check: "tcp-ping"
     url: 192.168.31.210
     port: 3306
+  - name: Discord Bot
+    check: "tcp-ping"
+    url: 192.168.31.210
+    port: 2000
+  - name: Home Assistant
+    check: "tcp-ping"
+    url: 192.168.31.227
+    port: 8123
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
