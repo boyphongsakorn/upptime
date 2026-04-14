@@ -36,6 +36,10 @@ sites:
     check: "tcp-ping"
     url: 192.168.31.227
     port: 8123
+  - name: Private DNS Server
+    check: "tcp-ping"
+    url: 192.168.31.215
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
