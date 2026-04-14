@@ -23,6 +23,7 @@ sites:
   - name: Docker Server
     check: "tcp-ping"
     url: 192.168.31.215
+    port: 80
   - name: MySQL Server (MariaDB)
     check: "tcp-ping"
     url: 192.168.31.210
