@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "98.11%",
+    "uptime": "98.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
     "time": 237,
-    "timeDay": 229,
+    "timeDay": 263,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-04-14": 19,
+      "2026-04-14": 10,
       "2026-04-13": 13
     }
   },
@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-server",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 233,
     "timeWeek": 233,
     "timeMonth": 233,
     "timeYear": 233,
-    "dailyMinutesDown": {
-      "2026-04-14": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MySQL Server (MariaDB)",
@@ -46,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-sql-server-maria-db",
     "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptime": "98.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 239,
-    "timeDay": 232,
+    "timeDay": 265,
     "timeWeek": 239,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2026-04-14": 16,
+      "2026-04-14": 10,
       "2026-04-13": 12
     }
   },
@@ -67,19 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord-bot",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 251,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2026-04-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Assistant",
@@ -87,19 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2026-04-14": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Private DNS Server",
@@ -107,18 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "private-dns-server",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 251,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2026-04-14": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
