@@ -1,7 +1,7 @@
 url: 192.168.31.220
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-01T23:55:38.049Z
+status: up
+code: 200
+responseTime: 267
+lastUpdated: 2026-05-02T03:47:04.543Z
 startTime: 2026-04-13T20:14:54.146Z
 generator: Upptime <https://github.com/upptime/upptime>
